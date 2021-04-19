@@ -1,0 +1,13 @@
+C:\Users\GREAT\Desktop\C# Assignment\Sum_Number\bin\Debug\netcoreapp3.1\Sum_Number.exe
+C:\Users\GREAT\Desktop\C# Assignment\Sum_Number\bin\Debug\netcoreapp3.1\Sum_Number.deps.json
+C:\Users\GREAT\Desktop\C# Assignment\Sum_Number\bin\Debug\netcoreapp3.1\Sum_Number.runtimeconfig.json
+C:\Users\GREAT\Desktop\C# Assignment\Sum_Number\bin\Debug\netcoreapp3.1\Sum_Number.runtimeconfig.dev.json
+C:\Users\GREAT\Desktop\C# Assignment\Sum_Number\bin\Debug\netcoreapp3.1\Sum_Number.dll
+C:\Users\GREAT\Desktop\C# Assignment\Sum_Number\bin\Debug\netcoreapp3.1\Sum_Number.pdb
+C:\Users\GREAT\Desktop\C# Assignment\Sum_Number\obj\Debug\netcoreapp3.1\Sum_Number.csprojAssemblyReference.cache
+C:\Users\GREAT\Desktop\C# Assignment\Sum_Number\obj\Debug\netcoreapp3.1\Sum_Number.AssemblyInfoInputs.cache
+C:\Users\GREAT\Desktop\C# Assignment\Sum_Number\obj\Debug\netcoreapp3.1\Sum_Number.AssemblyInfo.cs
+C:\Users\GREAT\Desktop\C# Assignment\Sum_Number\obj\Debug\netcoreapp3.1\Sum_Number.csproj.CoreCompileInputs.cache
+C:\Users\GREAT\Desktop\C# Assignment\Sum_Number\obj\Debug\netcoreapp3.1\Sum_Number.dll
+C:\Users\GREAT\Desktop\C# Assignment\Sum_Number\obj\Debug\netcoreapp3.1\Sum_Number.pdb
+C:\Users\GREAT\Desktop\C# Assignment\Sum_Number\obj\Debug\netcoreapp3.1\Sum_Number.genruntimeconfig.cache

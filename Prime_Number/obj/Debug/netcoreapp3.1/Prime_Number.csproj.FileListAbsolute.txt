@@ -1,0 +1,13 @@
+C:\Users\GREAT\Desktop\C# Assignment\Prime_Number\bin\Debug\netcoreapp3.1\Prime_Number.exe
+C:\Users\GREAT\Desktop\C# Assignment\Prime_Number\bin\Debug\netcoreapp3.1\Prime_Number.deps.json
+C:\Users\GREAT\Desktop\C# Assignment\Prime_Number\bin\Debug\netcoreapp3.1\Prime_Number.runtimeconfig.json
+C:\Users\GREAT\Desktop\C# Assignment\Prime_Number\bin\Debug\netcoreapp3.1\Prime_Number.runtimeconfig.dev.json
+C:\Users\GREAT\Desktop\C# Assignment\Prime_Number\bin\Debug\netcoreapp3.1\Prime_Number.dll
+C:\Users\GREAT\Desktop\C# Assignment\Prime_Number\bin\Debug\netcoreapp3.1\Prime_Number.pdb
+C:\Users\GREAT\Desktop\C# Assignment\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.csprojAssemblyReference.cache
+C:\Users\GREAT\Desktop\C# Assignment\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.AssemblyInfoInputs.cache
+C:\Users\GREAT\Desktop\C# Assignment\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.AssemblyInfo.cs
+C:\Users\GREAT\Desktop\C# Assignment\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.csproj.CoreCompileInputs.cache
+C:\Users\GREAT\Desktop\C# Assignment\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.dll
+C:\Users\GREAT\Desktop\C# Assignment\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.pdb
+C:\Users\GREAT\Desktop\C# Assignment\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.genruntimeconfig.cache
