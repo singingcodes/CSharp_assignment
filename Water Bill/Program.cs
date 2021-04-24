@@ -6,16 +6,19 @@ namespace Water_Bill
     {
         static void Main(string[] args)
         {
+            // Simple program to calculate water bill
             int customerId;
             int consumerUnit;
             double charge, subCharge =0, bill, netAmount;
             string customerName;
+            Console.WriteLine("Welcome Dear customer, Please enter your details to get your Water Bill");
             Console.WriteLine("Input Customer ID :");
             customerId= Convert.ToInt32(Console.ReadLine());
              Console.WriteLine("Input the name of the customer :");
              customerName= Console.ReadLine().ToLower();
              Console.WriteLine("Input the unit consumed by the customer : ");
              consumerUnit= Convert.ToInt32(Console.ReadLine());
+             // This is to check the given consitions
              if (consumerUnit < 200)
              {
                 charge = 1.20;
@@ -37,7 +40,7 @@ namespace Water_Bill
             {
                 Console.WriteLine("Bill cannot be less than 100");
             }
-           else if (bill > 300)
+           else if (bill > 300) // this part checks if the user's bill is above 300 naira and it adds a subcharge
            {    
             subCharge = bill * 15/100.0;
             netAmount = bill + subCharge;
